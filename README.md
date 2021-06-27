@@ -1,8 +1,6 @@
 # Whatsapp-Automation-Python
 This project is about automating whatsapp chats.
 
-Used frameworks:
-  - Twilio 
+Used frameworks: `Twilio` 
 
-Used python modules:
-  - Advanced Python Scheduler
+Used python modules: `Advanced Python Scheduler`
